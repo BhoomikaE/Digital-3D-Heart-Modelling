@@ -2,7 +2,19 @@ Digital 3D Heart Modelling for cardiac structure and abnormality analysis
 
 🌐 **Live Demo:** [Explore Digital 3D Heart Modelling](https://digital-3-d-heart-modelling.vercel.app)
 
+## Project Prev
+
+
+![Digital 3D Heart Modelling homepage](Screenshot%202026-10-10%20104001.png)
+
+
+
 💻 **Source Code:** [View on GitHub](https://github.com/BhoomikaE/Digital-3D-Heart-Modelling)
+
+## Project Preview
+
+![Digital 3D Heart Modelling homepage](Screenshot%202026-10-10%20104001.png)
+
 
 
 Overview
@@ -90,3 +102,6 @@ GitHub: [BhoomikaE](https://github.com/BhoomikaE)
 ## Repository
 
 [Digital-3D-Heart-Modelling](https://github.com/BhoomikaE/Digital-3D-Heart-Modelling)
+
+
+
