@@ -1,0 +1,73 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated outputs
+outputs/
+uploads/
+
+# Node
+node_modules/
+website/node_modules/
+website/dist/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large medical dataset
+dataset/
+# Trained model checkpoints
+*.pth
+
+# Generated test slices
+test_image_slices/
+
+# Additional large files and local dependencies
+.venv/
+**/node_modules/
+models/
+*.pt
+*.onnx
+*.zip
+*.nii
+*.nii.gz
+*.dcm
+*.dicom
+*.pkl
+*.joblib
+
+# Build and generated files
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Additional large files and local dependencies
+.venv/
+**/node_modules/
+models/
+*.pt
+*.onnx
+*.zip
+*.nii
+*.nii.gz
+*.dcm
+*.dicom
+*.pkl
+*.joblib
+
+# Build and generated files
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
