@@ -1,6 +1,11 @@
-# Digital 3D Heart Modelling
+Digital 3D Heart Modelling for cardiac structure and abnormality analysis 
 
-## Overview
+🌐 **Live Demo:** [Explore Digital 3D Heart Modelling](https://digital-3-d-heart-modelling.vercel.app)
+
+💻 **Source Code:** [View on GitHub](https://github.com/BhoomikaE/Digital-3D-Heart-Modelling)
+
+
+Overview
 
 Digital 3D Heart Modelling is a project focused on the digital modelling and analysis of the human heart. It aims to support the visualization and exploration of heart structures and the analysis of heart-related data using computational techniques.
 
@@ -77,9 +82,8 @@ Potential applications and areas for further exploration include:
 
 This project is intended for educational and development purposes. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
-## Author
 
-**Bhoomika E**
+Bhoomika E
 
 GitHub: [BhoomikaE](https://github.com/BhoomikaE)
 
